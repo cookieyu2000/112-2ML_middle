@@ -1,0 +1,4 @@
+/test/
+/train/
+VGG16_Best.h5
+VGG16_Best3.h5
